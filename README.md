@@ -7,4 +7,4 @@ Interactive-MNIST also has a file to train the model(Train_MNIST.py) and a file 
 
 
 ### Dependencies:
-The project was created using pyhton 3.11 and all the dependencies are listed in requirements.txt
+The project was created using python 3.11 and all the dependencies are listed in requirements.txt
